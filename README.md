@@ -1,3 +1,3 @@
 # Other-Notes
 
-Just something to help practice. 
+Just Practice! 
