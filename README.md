@@ -1,0 +1,3 @@
+# Other-Notes
+
+Just Practice! 
