@@ -1,5 +1,26 @@
 body {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-color: black;
-    color: blanchedalmond;
+    color: whitesmoke;
 }
+
+header {
+    padding: 20px 35px;
+    background-color: black;
+    border-style: solid;
+    border-color: thistle;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 36px;
+    color: whitesmoke;
+    margin: 0;
+    text-align: center;
+}
+
+header a {
+    color: whitesmoke;
+}
+
+/* Figure out how to make this look more polished */
