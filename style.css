@@ -42,8 +42,8 @@ header nav ul li a {
 
 /* Hero section */
 section {
-    padding: 175px;
-    background-image: url("./volcano\ image\ sample.png");
+    padding: 165px;
+    background-image: url(../OtherNotes/city\ volcano\ image.png);
     margin-left: 15px;
     margin-right: 15px;
 }
