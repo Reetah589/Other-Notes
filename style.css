@@ -3,13 +3,6 @@
     padding: 0;
 }
 
-/* header {
-    padding: 20px 35px;
-    background-color: black;
-    border-style: solid;
-    border-color: thistle;
-} */
-
 header {
     background: url(../OtherNotes/mainpagebac.jpg);
     height: 100vh;
@@ -48,40 +41,21 @@ header nav ul li a {
     text-align: center;
 }
 
+.welcome-text h1 {
+    text-align: center;
+    color: burlywood;
+    text-transform: uppercase;
+    font-size: 60px;
+}
 
-
-/* header a {
-    color: whitesmoke;
+.welcome-text a {
+    border: 1px solid bisque;
+    padding: 10px 25px;
     text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    margin-top: 20px;
+    display: inline-block;
 }
-
-header nav {
-    float: right;
-    margin: 10px;
-}
-
-header nav ul li {
-    display: inline;
-}
-
-header nav ul li a {
-    margin: 0 30px;
-    font-weight: lighter;
-    font-size: 22px;
-}
-
-h2 {
-    text-align: center;
-}
-
-h3 {
-    text-align: center;
-}
-
-footer {
-    padding: 20px 35px;
-    border-style: solid;
-    border-color: thistle; 
-} */
 
 /* Figure out how to make this look more polished */
