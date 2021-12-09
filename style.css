@@ -18,6 +18,38 @@ header {
     position: relative;
 }
 
+header nav {
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+    margin: 10px;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header a {
+    color: burlywood;
+    text-decoration: none;
+}
+
+header nav ul li a {
+    padding: 5px 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+}
+
+.welcome-text {
+    position: absolute;
+    width: 600px;
+    height: 300px;
+    margin: 20% 30%;
+    text-align: center;
+}
+
+
+
 /* header a {
     color: whitesmoke;
     text-decoration: none;
