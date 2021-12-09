@@ -11,15 +11,6 @@ header {
     border-color: thistle;
 }
 
-header h1 {
-    font-weight: bold;
-    font-size: 40px;
-    color: whitesmoke;
-    margin: 0;
-    text-align: center;
-    display: inline;
-}
-
 header a {
     color: whitesmoke;
     text-decoration: none;
@@ -38,20 +29,6 @@ header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
-}
-
-/* Hero section */
-section {
-    padding: 165px;
-    background-image: url(../OtherNotes/city\ volcano\ image.png);
-    margin-left: 15px;
-    margin-right: 15px;
-}
-
-body {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: black;
-    color: whitesmoke;
 }
 
 h2 {
