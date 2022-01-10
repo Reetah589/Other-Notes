@@ -58,4 +58,10 @@ header nav ul li a {
     display: inline-block;
 }
 
+h1 {
+    text-align: center;
+    color: burlywood;
+    font-size: 60px;
+}
+
 /* Figure out how to make this look more polished */
