@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 /* Hex color ideas: #4b3832 #854442 #fff4e6 #3c2f2f #be9b7b*/
@@ -43,4 +44,25 @@ header nav ul li a {
     margin: 0 30px;
     font-weight: lighter;
     font-size: 22px;
+}
+
+footer {
+    background: #851e3e;
+    width: 100%;
+    padding: 40px 35px;
+}
+
+footer h2 {
+    display: inline;
+    color: blanchedalmond;
+    font-size: 30px;
+    margin: 0;
+}
+
+footer div {
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+    color: blanchedalmond;
+    font-size: 25px;
 }
