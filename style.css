@@ -1,23 +1,27 @@
+/* Hex color ideas: #4b3832 #854442 #fff4e6 #3c2f2f #be9b7b*/
+/* Hex color ideas; #051e3e #251e3e #451e3e #651e3e #851e3e*/
+
 body {
     font-family: Helvetica, Arial, sans-serif;
-    background-color: purple;
+    background-color: #851e3e;
+    color: blanchedalmond;
 }
 
 header {
     padding: 20px 35px;
-    background-color: black;  
+    background-color: #051e3e;  
 }  
 
 header h1 {
     font-weight: bold;
     font-size: 36px;
-    color: silver;
+    color: blanchedalmond;
     margin: 0;
 }
   
 header a {
     text-decoration: none;
-    color: silver;
+    color: blanchedalmond;
 }
 
 header nav {
