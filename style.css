@@ -68,6 +68,12 @@ footer div {
 }
 
 section {
-    padding: 60px;
-    background-image: url(../OtherNotes/assets/temphero1.jpg);
+    padding: 60px; 
+}
+
+.hero {
+    background-image: url(../OtherNotes/assets/temphero2.jpg);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
 }
