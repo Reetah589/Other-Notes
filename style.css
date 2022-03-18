@@ -1,15 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 /* Hex color ideas: #4b3832 #854442 #fff4e6 #3c2f2f #be9b7b*/
 /* Hex color ideas; #051e3e #251e3e #451e3e #651e3e #851e3e*/
 
 body {
     font-family: Helvetica, Arial, sans-serif;
-    background-color: #851e3e;
+    background-color: #051e3e;
     color: blanchedalmond;
 }
 
 header {
     padding: 20px 35px;
-    background-color: #051e3e;  
+    background-color: #851e3e;  
 }  
 
 header h1 {
@@ -17,6 +22,7 @@ header h1 {
     font-size: 36px;
     color: blanchedalmond;
     margin: 0;
+    display: inline;
 }
   
 header a {
@@ -27,4 +33,14 @@ header a {
 header nav {
     float: right;
     margin: 7px 0;
+}
+
+header nav ul li {
+    display: inline;
+}
+
+header nav ul li a {
+    margin: 0 30px;
+    font-weight: lighter;
+    font-size: 22px;
 }
