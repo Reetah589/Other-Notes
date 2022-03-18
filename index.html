@@ -30,7 +30,7 @@
         </ul>
      </nav>
     </header>
-
+<!--Hero Section-->
     <section>
       <div>
         <h3>Got Any Questions?</h3>
@@ -38,9 +38,33 @@
           by me so if you have any questions about my process please contact me.
         </p>
         <!--Add Form Element Here-->
+        <form>
+          <label for="name">Enter Full Name:</label>
+          <input type="text" placeholder="Your Name" name="name" id="name" />
+          <label for="email">Enter Email Address:</label>
+          <input type="text" placeholder="Email Address" name="email" id="email" />
+          <label for="question">Any Questions?</label>
+          <input type="text" placeholder="Your Question" name="question" id="question" />
+          <p>
+            Are you interested in learning about my novel?
+            <input type="radio" name="novel-confirm" id="novel-yes" />
+            <label for="novel-yes">Yes</label>
+            <input type="radio" name="novel-confirm" id="novel-no" />
+            <label for="novel-no">No</label>
+          </p>
+          <p>
+            <label for="checkbox" >
+              I acknowledge that I am at least 18 years of age.
+            </label>
+            <input type="checkbox" name="age-confirm" id="checkbox" />
+          </p>
+          <button type="submit">
+            Submit
+          </button> 
+        </form>
       </div>
     </section>
-
+<!--End Hero Section-->
     <section>
       <h2>Deadlines</h2>
     </section>
