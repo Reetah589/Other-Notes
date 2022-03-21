@@ -9,7 +9,7 @@
 
 body {
     font-family: Helvetica, Arial, sans-serif;
-    background-color: #251e3e;
+    background-color: #451e3e;
     color: blanchedalmond;
 }
 
@@ -125,20 +125,52 @@ section {
     text-align: center;
 }
 
-.intro h2 {
-    font-size: 55px;
-    color: blanchedalmond;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    border-bottom: 3px solid;
-    border-color: #451e3e;
-/*    display: inline-block; */
-}
-
 .intro p {
     line-height: 1.7;
     color: blanchedalmond;
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
+}
+
+.info {
+    text-align: center;
+    background: #851e3e;
+}
+
+.section-title {
+    font-size: 55px;
+    color: blanchedalmond;
+    margin-bottom: 35px;
+    padding: 0 100px 20px 100px;
+    display: inline-block;
+    border-bottom: 3px solid;
+}
+  
+.primary-border {
+    border-color: #ee447a;
+}
+  
+.secondary-border {
+    border-color: #ee447a;
+}
+
+.steps div {
+    margin-bottom: 80px;
+}
+  
+.steps img {
+    width: 15%;
+    margin: 10px 0;
+}
+  
+.steps h3 {
+    color: blanchedalmond;
+    font-size: 46px;
+    margin-top: 10px;
+}
+  
+.steps p {
+    color: blanchedalmond;
+    font-size: 23px;
 }
